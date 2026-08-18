@@ -8,7 +8,7 @@ Senior Full-Stack Developer with 10+ years of experience building web applicatio
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,tailwind,mysql,postgres,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,tailwind,mysql,postgres,mongodb)](https://skillicons.dev)
 
 ## Testing
 
