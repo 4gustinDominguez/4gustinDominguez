@@ -27,4 +27,4 @@ Exploring Generative AI, LLM integrations and RAG, with a focus on practical app
 
 ## Beyond the Stack
 
-I enjoy experimenting with Python and Bash, especially for scripting, automation and developer tooling. I like using the right tool for the job, even when it means stepping outside my usual stack.
+I enjoy experimenting with Python and Bash, especially for scripting, automation and developer tooling.
