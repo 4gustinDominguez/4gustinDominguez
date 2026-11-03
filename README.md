@@ -1,9 +1,19 @@
 # Agustin Dominguez
 
-**Senior Software Engineer | Full-Stack · React · Next.js · TypeScript · Node.js**
+**Senior Full-Stack Engineer**
+**JavaScript & TypeScript | AI Development | Software Architecture**
 
-Senior Full-Stack Developer with 10+ years of experience building web applications, with strong expertise in React, Next.js, TypeScript, Node.js and PHP. Currently focused on modern frontend architectures while bringing extensive previous experience in backend development, APIs, databases and distributed systems. Experienced in scalable architectures, cloud environments, CI/CD, performance, testing and production operations.
+I'm a Senior Software Engineer with 14+ years of experience designing, building and maintaining web applications, with a strong focus on Full-Stack development using JavaScript and TypeScript.
 
+My experience covers both frontend and backend development, with particular expertise in React, Next.js and Node.js. I enjoy working across the entire software development lifecycle, from designing scalable architectures and building APIs to delivering performant, maintainable user-facing applications.
+
+Throughout my career, I've worked with different architectural approaches and technologies, including microservices, micro-frontends, CQRS, Event Sourcing and Clean Architecture. I've also gained experience with cloud environments, CI/CD pipelines, performance optimization, automated testing and production operations.
+
+I'm also actively expanding my expertise in Artificial Intelligence and its application to software development. 
+
+I value clean code, pragmatic architecture, continuous learning and building software that solves real problems. I enjoy collaborating with teams, sharing knowledge and taking ownership of technical challenges.
+
+Currently based in Spain and open to international remote opportunities.
 ---
 
 ## Tech Stack
