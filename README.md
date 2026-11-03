@@ -1,6 +1,7 @@
 # Agustin Dominguez
 
 **Senior Full-Stack Engineer**
+
 **JavaScript & TypeScript | AI Development | Software Architecture**
 
 I'm a Senior Software Engineer with 14+ years of experience designing, building and maintaining web applications, with a strong focus on Full-Stack development using JavaScript and TypeScript.
@@ -13,7 +14,6 @@ I'm also actively expanding my expertise in Artificial Intelligence and its appl
 
 I value clean code, pragmatic architecture, continuous learning and building software that solves real problems. I enjoy collaborating with teams, sharing knowledge and taking ownership of technical challenges.
 
-Currently based in Spain and open to international remote opportunities.
 ---
 
 ## Tech Stack
