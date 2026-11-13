@@ -38,3 +38,5 @@ Exploring Generative AI, LLM integrations and RAG, with a focus on practical app
 ## Beyond the Stack
 
 I enjoy experimenting with Python and Bash, especially for scripting, automation and developer tooling.
+
+View Full Resume https://jsonresume.org/@4gustindominguez
